@@ -10,7 +10,7 @@
  <template is="wxParse" data="{{wxParseData:intre.nodes}}"/>
 </view>
 <view class='numtab'>{{contab}}</view>
-<view class='add'>地址：{{address}}</view>
+<view class='add'>地址1：{{address}}</view>
 <view class='about-tab'>联系电话：{{mobile}}</view>
 <view class='business'>商务合作：{{email}}</view>
  
